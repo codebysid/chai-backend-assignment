@@ -14,9 +14,18 @@ We are building a complete video hosting website similar to youtube with all the
 Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tokens and many more. We have spent a lot of time in building this project and we are sure that you will learn a lot from this project.
 
 ---
-Top Contributer to complete all TODOs
+# Assignment Submission
+This is repository is my submission of chai aur backend series assignment
 
-1. Spiderman (just sample)  [Link to Repo](https://www.youtube.com/@chaiaurcode)
+Controllers Completed:-
+  1. Video
+  2. Like
+  3. Comment
+  4. Tweet
+  5. Playlist
+  6. Subscription
+  7. Dashboard
+  8. Healthcheck
 
 --- 
 ## How to contribute in this open source Project
